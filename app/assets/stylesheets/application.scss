@@ -1,0 +1,9 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "pages";
+@import "Prism";
+
+.code-snippet {
+  height: 400px;
+  overflow-y: scroll;
+}
