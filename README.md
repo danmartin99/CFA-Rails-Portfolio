@@ -1,6 +1,10 @@
 # Dan Martin Portfolio README.md
 
 # README
+# Design and User Stories
+Before starting the development process, user stories were created and then used to plan the most imporatant funtionality to be put into the original version of Portfolio. As the application evolves, more user stories will be added.
+
+https://www.dropbox.com/s/1v0ue62owgvv7tb/Screen%20Shot%202017-03-15%20at%2008.55.14.png?dl=0
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
